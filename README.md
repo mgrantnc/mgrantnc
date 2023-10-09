@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mxnng
+- 👋 Hi, I’m @mgrantnc
 - 👀 I’m interested in jobs using Java/SQL
-- 🌱 I’m currently learning React, Kafka
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any exciting projects in fintech space
 - 📫 How to reach me @mgrantnc on LinkedIn
 
